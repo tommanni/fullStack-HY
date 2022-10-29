@@ -1,0 +1,22 @@
+div {
+  font-family: "Times New Roman", Times, serif;
+}
+.success {
+  color: green;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 0px 8px 10px 8px;
+}
+
+.fail {
+  color: red;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 0px 8px 10px 8px;
+}
